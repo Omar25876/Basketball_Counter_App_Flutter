@@ -41,7 +41,7 @@ class _pointsState extends State<points> {
               children: [
                 Column(
                   children: [
-                  const Text('Team A',
+                  const Text(' Team A ',
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 32,
